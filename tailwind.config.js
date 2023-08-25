@@ -11,6 +11,9 @@ module.exports = {
         post_yellow: "#FFFF66",
         post_blue: "#4786B3",
       },
+      fontFamily: {
+        alfa: ["Alfa Slab One", "sans-serif"],
+      },
       fontSize: {
         xsm: "0.7rem", // 작은 크기 폰트
         base: "1rem", // 기본 크기 폰트
